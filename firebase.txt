@@ -1,6 +1,0 @@
-pasos para usar firebase
-instalar node: decargar e instalar
-en consola: usa comandos de la task
-ntalar firebase 
-
-panel de contral->Sistema->variables de entorno->path->editar->nuevo->direccion
